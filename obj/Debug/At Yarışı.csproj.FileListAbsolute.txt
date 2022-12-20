@@ -1,0 +1,11 @@
+C:\C#\repos\örnek2\At Yarışı\bin\Debug\At Yarışı.exe.config
+C:\C#\repos\örnek2\At Yarışı\bin\Debug\At Yarışı.exe
+C:\C#\repos\örnek2\At Yarışı\bin\Debug\At Yarışı.pdb
+C:\C#\repos\örnek2\At Yarışı\obj\Debug\At Yarışı.csproj.AssemblyReference.cache
+C:\C#\repos\örnek2\At Yarışı\obj\Debug\At Yarışı.csproj.SuggestedBindingRedirects.cache
+C:\C#\repos\örnek2\At Yarışı\obj\Debug\At_Yarışı.Form1.resources
+C:\C#\repos\örnek2\At Yarışı\obj\Debug\At_Yarışı.Properties.Resources.resources
+C:\C#\repos\örnek2\At Yarışı\obj\Debug\At Yarışı.csproj.GenerateResource.cache
+C:\C#\repos\örnek2\At Yarışı\obj\Debug\At Yarışı.csproj.CoreCompileInputs.cache
+C:\C#\repos\örnek2\At Yarışı\obj\Debug\At Yarışı.exe
+C:\C#\repos\örnek2\At Yarışı\obj\Debug\At Yarışı.pdb
